@@ -1,0 +1,38 @@
+c# 
+Review implementation []
+Removed unused injected code []
+Considered performance impact []
+
+testing []
+Test in chrome []
+Test in IE 9 []
+Test in IE 10 []
+Test in IE 11 []
+Test in Firefox []
+Test in Safari []
+
+Test in mobile []
+
+
+verification [] 
+Verified it works on dev environment []
+
+sql []
+sql generated reviewed []
+sql file attached to task []
+Sql project updated []
+SQL project committed []
+
+Build 
+updated build to include references []
+
+Merging []
+Code merged to branch []
+Code merged to main branch []
+
+TIme Sheet []
+Updated timesheet []
+Updated task time []
+
+Rules Standards 
+Can apply KISS []
