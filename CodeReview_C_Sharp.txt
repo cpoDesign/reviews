@@ -3,15 +3,11 @@ Review implementation []
 Removed unused injected code []
 Considered performance impact []
 
-testing []
-Test in chrome []
-Test in IE 9 []
-Test in IE 10 []
-Test in IE 11 []
-Test in Firefox []
-Test in Safari []
+Code maintenance
+ - Reusing code
+ 
 
-Test in mobile []
+
 
 
 verification [] 
