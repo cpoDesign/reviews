@@ -1,7 +1,7 @@
 While checking pull request these are steps you shoud follow
 
 - Ensure pullrequest is meaningfull
-- Pull request contains reference to story
+- Pull request contains reference to story or work item
 
 Successfull request
  - Delete branch 
