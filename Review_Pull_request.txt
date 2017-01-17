@@ -1,0 +1,10 @@
+While checking pull request these are steps you shoud follow
+
+- Ensure pullrequest is meaningfull
+- Pull request contains reference to story
+
+Successfull request
+ - Delete branch 
+ - Notify owner
+Failed to approve
+ - Notify owner
