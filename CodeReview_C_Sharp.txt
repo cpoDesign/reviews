@@ -7,16 +7,13 @@ Code maintenance
  - Reusing code
  
 
-
-
-
-verification [] 
+Verification [] 
 Verified it works on dev environment []
 
-sql []
-sql generated reviewed []
-sql file attached to task []
-Sql project updated []
+SQL []
+SQL generated reviewed []
+SQL file attached to task []
+SQL project updated []
 SQL project committed []
 
 Build 
@@ -26,7 +23,7 @@ Merging []
 Code merged to branch []
 Code merged to main branch []
 
-TIme Sheet []
+Time Sheet []
 Updated timesheet []
 Updated task time []
 
